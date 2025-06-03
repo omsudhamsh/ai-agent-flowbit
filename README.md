@@ -139,4 +139,3 @@ Test coverage includes:
 ## 📜 License
 
 MIT License - See [LICENSE](LICENSE) for details.
-```
